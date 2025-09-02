@@ -225,7 +225,7 @@ The project includes:
 
 ## 📄 License
 
-This project is created for demonstration purposes. All rights reserved.
+This project is created for demonstration purposes only. All rights reserved.
 
 ---
 
